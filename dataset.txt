@@ -1,0 +1,155 @@
+Name: Launchkart
+Description: Develop an intelligent Mario Kart agent that can replicate the skill and technique of a human player using behavior cloning algorithms.
+---
+
+Name: Lil' Speare
+Description: Converting rap lyrics to Shakespearian-style text using Transformers and RNNs. The 1500's never looked so dope.
+---
+
+Name: Reconstructor
+Description: Creating high-quality 3D reconstructions from photos of our own. Each member will choose variable scenes and items to reconstruct with NeRF and various follow up methods.
+---
+
+Name: Duet
+Description: Experiment with a VQ-VAE based network for converting audio to the style of another audio file.
+---
+
+Name: Inflection
+Description: Create a voice conversion model framework for voice assistants, implementing data generation, spectral analysis, and an Amazon Lex-based web app.
+---
+
+Name: Lucinator
+Description: Build a production ready virtual assistant chatbot with robust machine learning pipelines and slack integration.
+---
+
+Name: Phodexr
+Description: Enable semantic search through images and other mediums in a zero-shot manner with CLIP.
+---
+
+Name: Scribe
+Description: Few-shot meta learning to learn handwriting styles and generate similar handwritten text using GANs.
+---
+
+Name: RosettaCV
+Description: Build an encoder for images that can perform few-shot training across CV tasks using unsupervised learning.
+---
+
+Name: Shallow Sleep
+Description: Explore adversarial models to track sleep stages by comparing results from watch and radio frequency data to brain wave data.
+---
+
+Name: Strategist
+Description: Develop a profitable trading strategy for the market today based on common technical indicators.
+---
+
+Name: rAIse
+Description: Create an AI web app using Monte Carlo sampling, deep and reinforcement learning to play heads up and nine handed no-limit Texas Hold'em poker.
+---
+
+Name: Illustrator
+Description: A pictionary-like web game with a bot to generate and classify sketches.
+---
+
+Name: Interact
+Description: Building models that detect, contextualize, and identify relationships between humans and objects in images.
+---
+
+Name: Memories
+Description: A web app where users can upload pictures from their photo album and generate ambient sounds and songs from the image’s scenery and emotion.
+---
+
+Name: Watchman
+Description: Merging information between multiple cameras to track objects of interest accurately in 3D spaces.
+---
+
+Name: Brawl
+Description: Training state of the art reinforcement learning agents to play the popular game, Super Smash Bros Melee.
+---
+
+Name: Backyard IoT
+Description: Animal information and tracking using a CNN with Raspberry Pi to send information to the cloud.
+---
+
+Name: Emergence
+Description: Reinforcement learning in competitive environments for simulating intelligence.
+---
+
+Name: Evolve
+Description: Universal codebook for image compression using evolutionary-based optimization methods.
+---
+
+Name: Inspector
+Description: Fake news detecting Chrome extension incorporating NLP techniques and stance detections.
+---
+
+Name: Orchestrator
+Description: Converting music between different styles/instrumentations using encoder-decoder networks in PyTorch.
+---
+
+Name: BalliNN
+Description: NBA playoff performance prediction from regular season data using statistical learning and neural networks.
+---
+
+Name: ClairVoyance
+Description: Weather forecasting using high-resolution video frame prediction using CNNs and RNNs.
+---
+
+Name: Musecage
+Description: Answering visual questions using image and word embeddings and recurrent attention algorithms.
+---
+
+Name: Snapshot
+Description: Beautifying Berkeley with a #filter created with CycleGAN, an image to image translation neural network.
+---
+
+Name: SpeculateAI
+Description: Stock market trend prediction using NLP and time series analysis.
+---
+
+Name: Darklight
+Description: Improving existing convolutional neural network architecture for real-time low-light image inferencing.
+---
+
+Name: Dream
+Description: Generative models for reinforcement learning to attain high performance with simplicity.
+---
+
+Name: Explorer
+Description: Analyzing exploration and curiosity-based techniques in deep reinforcement learning.
+---
+
+Name: GrubGen
+Description: Food image generation using generative adversarial networks.
+---
+
+Name: Danger Sense
+Description: Detecting and responding to dangerous driving situation by predicting collisions and road closures.
+---
+
+Name: MOR
+Description: Multi-Objective Robotics solution for efficient and adaptive robot operation.
+---
+
+Name: MeTal
+Description: Meta learning and multi-task learning.
+---
+
+Name: Facelift
+Description: Augmenting low-fidelity images of 2D faces using 3D facial reconstruction.
+---
+
+Name: Jazz!
+Description: Generating jazz melodies in specified styles using Markov chains and clustering.
+---
+
+Name: DeepBeat
+Description: Polyphonic music generation using deep neural networks.
+---
+
+Name: Sherlock
+Description: Building a human-centric computer vision API that provides optimized algorithms for object detection and tracking.
+---
+
+Name: Stella
+Description: Voice controlled computers using natural language processing.
+---
